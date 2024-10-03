@@ -1,4 +1,4 @@
-Optimizing Heat Pump Operation using Decision Tree Algorithm
+#Optimizing Heat Pump Operation using Decision Tree Algorithm
 
 Project Overview
 This repository contains the code developed for optimizing the operation of a group of heat pumps covering the thermal demand of a building. The optimization is achieved using a Decision Tree Machine Learning Algorithm built with the scikit-learn library in Python. The primary objective is to determine the most efficient way to operate multiple heat pumps in cascade mode, based on external factors affecting their performance.
